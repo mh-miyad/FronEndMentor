@@ -17,7 +17,7 @@ There are no external dependencies required for this project. You can open the `
 
 1. **Deploy your project:** To create a live demo accessible online, consider using hosting services like GitHub Pages, Netlify, Vercel, or any platform you're comfortable with. Each platform has specific deployment instructions, so refer to their documentation.
 2. **Obtain the live URL:** Once deployed, you'll receive a public URL that allows anyone to access your blog card online.
-3. **Update the README.md:** In this section, replace `[Link to your deployed blog card (optional)]` with the actual live URL you obtained.
+3. **Update the README.md:** In this section, replace `[https://frontend-simple-card.vercel.app/]` with the actual live URL you obtained.
 
 **Example Live Demo Format:**
 
@@ -29,4 +29,4 @@ There are no external dependencies required for this project. You can open the `
 ## Screenshots
 
 ![App Screenshot](https://i.ibb.co/wy57P7K/Desktop-Active.jpg)
-"# FronEndMentor" 
+"# FronEndMentor"
